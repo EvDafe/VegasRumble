@@ -401,8 +401,32 @@ PrefabInstance:
       propertyPath: m_Name
       value: AppsFlyerObject
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 4405976200006927252, guid: 0bfe3b149145747cc92dc53bb4df4e9b, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 0bfe3b149145747cc92dc53bb4df4e9b, type: 3}
+--- !u!1 &590070788 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7315102894599890749, guid: 0bfe3b149145747cc92dc53bb4df4e9b, type: 3}
+  m_PrefabInstance: {fileID: 590070787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &590070789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 590070788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a2ec6ba1ee8b48749524f015ed572a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  devKey: KgbKbM3ePuWAmAKchiEyDK
+  appID: 6737527249
+  UWPAppID: 
+  macOSAppID: 
+  isDebug: 0
+  getConversionData: 1
 --- !u!1 &669887711
 GameObject:
   m_ObjectHideFlags: 0
@@ -505,11 +529,28 @@ MonoBehaviour:
   m_GameObject: {fileID: 786380797}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5aa461b704c45a745b4c677ae9ba9dbb, type: 3}
+  m_Script: {fileID: 11500000, guid: 4e7ca7dd8c3883d48a6bcd5f36bb3263, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _loadingCanvas: {fileID: 1590635557}
-  _offerlink: []
+  _offerlink:
+  - ht
+  - tps
+  - :/
+  - /f
+  - e
+  - eg
+  - asu
+  - mb
+  - le
+  - a
+  - ort
+  - us.
+  - hom
+  - es/leg
+  - a
+  - su
+  - m
 --- !u!4 &786380799
 Transform:
   m_ObjectHideFlags: 0
